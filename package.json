@@ -9,6 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbahl1670/ch9-readmeGenerator-mjb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mbahl1670/ch9-readmeGenerator-mjb/issues"
+  },
+  "homepage": "https://github.com/mbahl1670/ch9-readmeGenerator-mjb#readme"
 }
