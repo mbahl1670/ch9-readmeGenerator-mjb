@@ -91,16 +91,23 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, err => {
+        if (err) throw err;
+        console.log("README complete!  Checkout out README.md to see the output");
+    });
+}
 
 // TODO: Create a function to initialize app
 function init() {
     return inquirer.prompt(questions);
-
 };
 
 // Function call to initialize app
 init()
-.then( readmeData => {
-    console.log(readmeData);
-});
+    .then(generateMarkdown)
+    .then(readMeData => {
+        writeToFile("./dist/README.md", readMeData);
+    });
+    // .then( questionAnswers => { return generateMarkdown(questionAnswers)})
+    // .then( readmeData => {writeToFile("README.md", readmeData)});
