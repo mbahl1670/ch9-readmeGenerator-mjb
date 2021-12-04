@@ -13,18 +13,6 @@ function renderLicenseBadge(license) {
   }
 };
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {
-  if (license === "MIT") {
-    return `https://choosealicense.com/licenses/mit/`;
-  }
-}
-// https://choosealicense.com/licenses/mit/
-// https://choosealicense.com/licenses/apache-2.0/
-// https://choosealicense.com/licenses/gpl-3.0/
-// https://choosealicense.com/licenses/bsd-3-clause/
-
 // Table of Contents Functions
 const tcInstallation = install => {
   if (!install) {
@@ -87,14 +75,25 @@ ${contribution}`;
   }
 };
 
+// TODO: Create a function that returns the license link
+function renderLicenseLink(license) {
+  switch (license) {
+    case "None": return `https://choosealicense.com/no-permission/`;
+    case "MIT": return `https://choosealicense.com/licenses/mit/`;
+    case "Apache": return `https://choosealicense.com/licenses/apache-2.0/`;
+    case "GPL 3.0": return `https://choosealicense.com/licenses/gpl-3.0/`;
+    case "BSD 3": return `https://choosealicense.com/licenses/bsd-3-clause/`;
+  }
+}
+
 // TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// If there is no license, return an empty string - I changed this to include a description of what no-license means
 function renderLicenseSection(license) {
+  const licenseLink = renderLicenseLink(license);
   if (license === "None") {
     return `This project does not have a license associated with it.\n
-Click [here](https://choosealicense.com/no-permission/) for more information.`;
+Click [here](${licenseLink}) for more information.`;
   } else {
-    const licenseLink = renderLicenseLink(license);
     return `This project is licensed under the [${license}](${licenseLink}) license.\n
 Click the license name for a description of this type of license`;
   }
