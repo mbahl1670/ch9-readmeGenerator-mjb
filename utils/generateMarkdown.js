@@ -90,9 +90,14 @@ ${contribution}`;
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  const licenseLink = renderLicenseLink(license);
-  console.log(licenseLink);
-  return `This project is licensed under the [${license}](${licenseLink}) license.`
+  if (license === "None") {
+    return `This project does not have a license associated with it.\n
+Click [here](https://choosealicense.com/no-permission/) for more information.`;
+  } else {
+    const licenseLink = renderLicenseLink(license);
+    return `This project is licensed under the [${license}](${licenseLink}) license.\n
+Click the license name for a description of this type of license`;
+  }
 };
 
 function renderTestSection(tests) {

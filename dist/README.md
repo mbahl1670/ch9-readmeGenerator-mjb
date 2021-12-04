@@ -1,35 +1,36 @@
 
-![LicenseBadge](https://img.shields.io/badge/License-MIT-brightgreen)
 
-# f
+
+# shitfuck
   
 ## Description
-f
+no
   
 ## Table of Contents
 * [Installation](#installation)
-* [Usage](#usage)
+
 * [License](#license)
 * [Contribution Guidelines](#contribution-guidelines)
 * [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
-a
+install it yourself
   
-## Usage
-d
+
   
 ## License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
+This project does not have a license associated with it.
+
+Click [here](https://choosealicense.com/no-permission/) for more information.
   
 ## Contribution Guidelines
-d
+don't
   
 ## Tests
-d
+none
   
 ## Questions
-Find me on GitHub:  [f](https://github.com/f)
+Find me on GitHub:  [make me cu](https://github.com/make me cu)
 
-Please email me if you have any questions:  <d>
+
