@@ -100,7 +100,7 @@ function renderEmail(email) {
   if (!email) {
     return "";
   } else {
-    return `Please email me if you have any questions:  [${email}](${email})`;
+    return `Please email me if you have any questions:  <${email}>`;
   }
 };
 
