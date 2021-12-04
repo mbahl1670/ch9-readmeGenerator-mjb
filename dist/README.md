@@ -1,10 +1,10 @@
 
 ![LicenseBadge](https://img.shields.io/badge/License-MIT-brightgreen)
 
-# Meimify
+# README Generator
   
 ## Description
-Memeify improves upon the preexisting gif search applications(such as giphy) and adds another layer of depth to assist with user simplicity. When searching for a single word, Memeify automatically searches and returns synonyms to help give you the best variety to choose from. Can’t think of the exact word you’re looking for? Through our built in thesaurus function, you can quickly and easily find the gif that perfectly suits your needs as a hip and happening person navigating the cyberspace today. 
+Node App to generate a quality Readme file
   
 ## Table of Contents
 * [Installation](#installation)
@@ -15,10 +15,10 @@ Memeify improves upon the preexisting gif search applications(such as giphy) and
 * [Questions](#questions)
 
 ## Installation
-Go to https://mbahl1670.github.io/ch7-groupProject1-MBSSWL/
+npm init     then    npm install inquirer
   
 ## Usage
-Type in a word you want to meimify then click the 'Get Memes' button
+Answer the prompted questions in the command line.  End result is an .md file in the /dist folder
   
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
@@ -26,10 +26,10 @@ This project is licensed under the [MIT](https://choosealicense.com/licenses/mit
 Click the license name for a description of this type of license
   
 ## Contribution Guidelines
-If you have suggestions for improvments fork the repository or email me.
+Feel free to fork the repository or email me with suggestions/questions
   
 ## Tests
-Examples of tests show in GitHub Readme screenshots
+No tests available
   
 ## Questions
 Find me on GitHub:  [mbahl1670](https://github.com/mbahl1670)
