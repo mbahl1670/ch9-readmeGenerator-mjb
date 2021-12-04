@@ -59,7 +59,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "contributionGuidelines",
+        name: "contribute",
         message: "Contribution guidelines for the app:"
     },
     {
