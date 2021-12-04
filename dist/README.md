@@ -1,10 +1,10 @@
 
-![LicenseBadge](https://img.shields.io/badge/License-GPL 3.0-brightgreen)
+![LicenseBadge](https://img.shields.io/badge/License-Apache-brightgreen)
 
-# REadme
+# README
   
 ## Description
-WHEN I click on the links in the Table of Contents
+Donec consectetur sapien eget nunc aliquam, sit amet viverra ante scelerisque. Nam aliquam ipsum lectus, vel auctor lectus congue et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non luctus turpis. Fusce molestie ante quis tortor tristique volutpat. Integer consectetur metus est, sit amet sagittis erat imperdiet a. Integer quis maximus velit. Donec tincidunt dolor quis augue tempor, eleifend lobortis arcu eleifend. Etiam odio sem, sagittis id rhoncus nec, faucibus a enim.
   
 ## Table of Contents
 * [Installation](#installation)
@@ -15,18 +15,21 @@ WHEN I click on the links in the Table of Contents
 * [Questions](#questions)
 
 ## Installation
-To switch between views, press Ctrl+Shift+V in the editor. You can view the preview side-by-side (Ctrl+K V) with the file you are editing and see changes reflected in real-time as you edit.
+Donec consectetur sapien eget nunc aliquam, sit amet viverra ante scelerisque. Nam aliquam ipsum lectus, vel auctor lectus congue et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non luctus turpis. Fusce molestie ante quis tortor tristique volutpat. Integer consectetur metus est, sit amet sagittis erat imperdiet a. Integer quis maximus velit. Donec tincidunt dolor quis augue tempor, eleifend lobortis arcu eleifend. Etiam odio sem, sagittis id rhoncus nec, faucibus a enim.
   
 ## Usage
-To switch between views, press Ctrl+Shift+V in the editor. You can view the preview side-by-side (Ctrl+K V) with the file you are editing and see changes reflected in real-time as you edit.
+Donec consectetur sapien eget nunc aliquam, sit amet viverra ante scelerisque. Nam aliquam ipsum lectus, vel auctor lectus congue et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non luctus turpis. Fusce molestie ante quis tortor tristique volutpat. Integer consectetur metus est, sit amet sagittis erat imperdiet a. Integer quis maximus velit. Donec tincidunt dolor quis augue tempor, eleifend lobortis arcu eleifend. Etiam odio sem, sagittis id rhoncus nec, faucibus a enim.
   
 ## License
 undefined
   
 ## Contribution Guidelines
-To switch between views, press Ctrl+Shift+V in the editor. You can view the preview side-by-side (Ctrl+K V) with the file you are editing and see changes reflected in real-time as you edit.
+Donec consectetur sapien eget nunc aliquam, sit amet viverra ante scelerisque. Nam aliquam ipsum lectus, vel auctor lectus congue et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non luctus turpis. Fusce molestie ante quis tortor tristique volutpat. Integer consectetur metus est, sit amet sagittis erat imperdiet a. Integer quis maximus velit. Donec tincidunt dolor quis augue tempor, eleifend lobortis arcu eleifend. Etiam odio sem, sagittis id rhoncus nec, faucibus a enim.
   
-## Contribution Guidelines
-To switch between views, press Ctrl+Shift+V in the editor. You can view the preview side-by-side (Ctrl+K V) with the file you are editing and see changes reflected in real-time as you edit.
+## Tests
+Donec consectetur sapien eget nunc aliquam, sit amet viverra ante scelerisque. Nam aliquam ipsum lectus, vel auctor lectus congue et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non luctus turpis. Fusce molestie ante quis tortor tristique volutpat. Integer consectetur metus est, sit amet sagittis erat imperdiet a. Integer quis maximus velit. Donec tincidunt dolor quis augue tempor, eleifend lobortis arcu eleifend. Etiam odio sem, sagittis id rhoncus nec, faucibus a enim.
   
 ## Questions
+Find me on GitHub:  [mbahl1670](https://github.com/mbahl1670)
+
+Please email me if you have any questions:  [mbahl1670@gmail.com](mbahl1670@gmail.com)
