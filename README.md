@@ -20,7 +20,7 @@ This is a Node.js application for creating a quality README file that inncludes 
 
 ## Walkthrough Video
 
-## Sample README.md File
+## Sample File
 https://github.com/mbahl1670/ch9-readmeGenerator-mjb/blob/main/dist/README.md
 
 ## Screenshot of the Application
