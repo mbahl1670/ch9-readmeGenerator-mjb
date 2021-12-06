@@ -11,9 +11,9 @@ This is a Node.js application for creating a quality README file that inncludes 
 * [Acceptance Criteria](#acceptance-criteria)
 * [Walkthrough Vido](#walkthrough-video)
 * [Sample README.md File](#sample-readme.md-file)
-* [Screenshot of the Application](#screenshot-of-the-applicatoion)
+* [Screenshot of the Application](#screenshot-of-the-application)
 * [Git Repository!](#git-repository!)
-* [How this was accomplished](#how)
+* [How this was accomplished](#how-this-was-accomplished)
 
 ## Acceptance Criteria
 * 
