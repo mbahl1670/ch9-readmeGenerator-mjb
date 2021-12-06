@@ -10,8 +10,8 @@ This is a Node.js application for creating a quality README file that inncludes 
 ## Table of Contents
 * [Acceptance Criteria](#acceptance-criteria)
 * [Walkthrough Vido](#walkthrough-video)
-* [Sample](#sample)
-* [Screenshots](#screenshot)
+* [Sample README.md File](#sample-readme.md-file)
+* [Screenshot of the Application](#screenshot-of-the-applicatoion)
 * [Git Repository!](#git-repository!)
 * [How this was accomplished](#how)
 
@@ -20,7 +20,7 @@ This is a Node.js application for creating a quality README file that inncludes 
 
 ## Walkthrough Video
 
-## Sample README.md file
+## Sample README.md File
 https://github.com/mbahl1670/ch9-readmeGenerator-mjb/blob/main/dist/README.md
 
 ## Screenshot of the Application
