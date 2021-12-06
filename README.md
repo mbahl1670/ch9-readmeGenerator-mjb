@@ -1,8 +1,32 @@
-# ch9-readmeGenerator-mjb
+# ReadMe Generator - Challenge #9 in the U of MN Bootcamp
 
-<!-- what command hsould be run to install depndecies.. npm i -->
-<!-- what kind of licsnse hsould your projec thave -->
-<!-- what command should be run to install dependcesnise npm-->
-<!-- what command dhouls be run to tests npm test -->
-<!-- what does the user need to know about usring the repo, have at it  -->
-<!-- what does the user need to know about contribuiting to the repo, please fix my bug -->
+## Built With
+* Node.js
+* NPM Inquirer
+
+## Description
+This is a Node.js application for creating a quality README file that inncludes what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions
+
+## Table of Contents
+* [Acceptance Criteria](#acceptance-criteria)
+* [Walkthrough Vido](#walkthrough-video)
+* [Sample](#sample)
+* [Screenshots](#screenshot)
+* [Git Repository!](#git-repository!)
+* [How this was accomplished](#how)
+
+## Acceptance Criteria
+* 
+
+## Walkthrough Video
+
+## Sample README.md file
+https://github.com/mbahl1670/ch9-readmeGenerator-mjb/blob/main/dist/README.md
+
+## Screenshot of the Application
+
+## Git Repository!
+https://github.com/mbahl1670/ch9-readmeGenerator-mjb
+
+## How this was accomplished
+* 
