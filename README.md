@@ -10,7 +10,7 @@ This is a Node.js application for creating a quality README file that inncludes 
 ## Table of Contents
 * [Acceptance Criteria](#acceptance-criteria)
 * [Walkthrough Vido](#walkthrough-video)
-* [Sample README File](#sample-readme-file)
+* [Sample File](#sample-file)
 * [Screenshot of the Application](#screenshot-of-the-application)
 * [Git Repository!](#git-repository!)
 * [How this was accomplished](#how-this-was-accomplished)
