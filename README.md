@@ -12,7 +12,7 @@ This is a Node.js application for creating a quality README file that inncludes 
 * [Walkthrough Vido](#walkthrough-video)
 * [Sample File](#sample-file)
 * [Screenshot of the Application](#screenshot-of-the-application)
-* [Git Repository!](#git-repository!)
+* [Git Repository](#git-repository)
 * [How this was accomplished](#how-this-was-accomplished)
 
 ## Acceptance Criteria
@@ -35,7 +35,7 @@ Sample of a README.md file generated at:  https://github.com/mbahl1670/ch9-readm
 ![Screenshot (37)](https://user-images.githubusercontent.com/90292697/144941301-b7b1e08d-ff2b-43aa-b01a-15398b6a9e1f.png)
 ![Screenshot (36)](https://user-images.githubusercontent.com/90292697/144941313-5e699549-187e-4de1-8f3f-54b87942cad8.png)
 
-## Git Repository!
+## Git Repository
 https://github.com/mbahl1670/ch9-readmeGenerator-mjb
 
 ## How this was accomplished
