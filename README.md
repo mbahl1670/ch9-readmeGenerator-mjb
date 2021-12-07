@@ -39,4 +39,8 @@ Sample of a README.md file generated at:  https://github.com/mbahl1670/ch9-readm
 https://github.com/mbahl1670/ch9-readmeGenerator-mjb
 
 ## How this was accomplished
-* 
+* Initialized NPM and installed NPM inquirer
+* Created a list of questions to ask for each section of the readme file
+* Wrote a page-template to generate the markdown file for the README
+* Researched licenses and established how to create the badge at the top of the readme file
+* Used FS to create a new .md file
