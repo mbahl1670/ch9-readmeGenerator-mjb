@@ -44,3 +44,4 @@ https://github.com/mbahl1670/ch9-readmeGenerator-mjb
 * Wrote a page-template to generate the markdown file for the README
 * Researched licenses and established how to create the badge at the top of the readme file
 * Used FS to create a new .md file
+* Recorded a walkthrough video for the README file
