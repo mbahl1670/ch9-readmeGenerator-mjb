@@ -27,6 +27,7 @@ This is a Node.js application for creating a quality README file that inncludes 
 
 
 ## Walkthrough Video
+https://watch.screencastify.com/v/Xo3LsvaEjVvFGxbLmYHL
 
 ## Sample File
 Sample of a README.md file generated at:  
